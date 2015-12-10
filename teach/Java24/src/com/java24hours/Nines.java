@@ -1,5 +1,4 @@
 package com.java24hours;
-
 // Hour 8
 class Nines {
 	
