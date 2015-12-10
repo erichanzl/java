@@ -1,6 +1,6 @@
 package com.java24hours;
 
-// hour8
+// Hour8
 class Benchmark {
     public static void main(String[] arguments) {
         long startTime = System.currentTimeMillis();
